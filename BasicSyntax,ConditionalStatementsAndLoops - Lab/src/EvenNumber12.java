@@ -11,6 +11,5 @@ public class EvenNumber12 {
             n=Integer.parseInt(scan.nextLine());
         }
         System.out.printf("The number is: %d",Math.abs(n));
-
     }
 }
